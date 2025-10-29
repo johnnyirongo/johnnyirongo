@@ -1,5 +1,9 @@
-<p>&#35;&#35; Hi there 👋</p>
-
+<!DOCTYPE html>
+<html lang="en>
+<head>
+  <meta charset="UTF-8"/>
+</head>
+  "<p>&#35;&#35; Hi there 👋</p>
 <h1>My name is John Nyirongo.</h1>
 
 <p>I am learning how to code,</p>
@@ -28,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</html>
