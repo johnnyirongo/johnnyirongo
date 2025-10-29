@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  "<p>&#35;&#35; Hi there 👋</p>
+  <p>&#35;&#35; Hi there 👋</p>
   <h1>My name is John Nyirongo.</h1>
   <p>I am learning how to code,</p>
   <h3>my road-map</h3>
